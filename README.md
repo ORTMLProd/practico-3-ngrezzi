@@ -45,4 +45,4 @@ Algunos de los features que tiene:
 - Hyperparametter tunning
 - Models
 - Endpoints
-- Etc
+- ...
