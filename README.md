@@ -37,16 +37,12 @@ Nos permite escalado de las instancias si tenemos que manejar grandes volumenene
 
 Algunos de los features que tiene:
 
-- Notebook
-- Automated ML job
-- Data asset
-- Component
-- Pipeline
-- Environment
-- Model
-- Endpoint
-- Compute instance
-- Compute cluster
-- Datastore
-- Data labeling project
-- Job
+- Notebooks
+- Processing jobs
+- Training jobs 
+- Foundation Models
+- Labeling jobs 
+- Hyperparametter tunning
+- Models
+- Endpoints
+- Etc
