@@ -9,7 +9,7 @@
 - Data augmentation
 - Entrenar un modelo simple. 
 
-# AWS SagemMaker
+# AWS SageMaker
 ###### https://aws.amazon.com/es/sagemaker/
 
 ### Qué es? 
