@@ -1,7 +1,7 @@
 
 # Práctico 3
 
-### AWS SageMaker
+### AWS SageMaker Notebook | github codespaces
 
 - Notebooks
 - Visualización de datos: pandas + matplotlib
